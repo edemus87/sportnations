@@ -1,5 +1,5 @@
 <?php
-print "goodbye!";
+print "goodbye";
 
 
 ?>
